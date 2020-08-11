@@ -1,0 +1,3 @@
+[08-11 16:32:35,084, 2260] main.Main Server started
+[08-11 16:32:36,714, 3890] servlets.ResourcesPageServlet resource.xml
+[08-11 16:32:36,780, 3956] servlets.ResourcesPageServlet TestResource{name='Test1597152755094', age=743}
