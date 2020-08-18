@@ -1,6 +1,6 @@
 # Решение задач курса "Stepik: Java webserver"
 Полностью пройденный курс "Разработка веб сервиса на Java" на [stepik.org][stepik]
-
+![Stepic](https://stepik.org/static/frontend/stepic_logo_share.jpg)
 Также добавлено допольнительное задание с примером MessageSystem, рассматриваемой в самом конце второй части курса.
 
 
