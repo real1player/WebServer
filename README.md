@@ -5,6 +5,10 @@
 
 
 
+### Ссылки на полученные сертификаты
+- [Перый сертификат][first-certificate]
+- [Второй сертификат][second-certificate]
+
 ### Ссылки на курс
 - [Первая часть][first-course]
 - [Вторая часть][second-course]
@@ -26,9 +30,10 @@
 - [HW07.zip](https://stepik.org/media/attachments/lesson/13019/HW07.zip)
 
 
-
-[stepik]:           <https://stepik.org>
-[first-course]:     <https://stepik.org/course/146>
-[second-course]:    <https://stepik.org/course/186>
-[synopsis]:         <https://github.com/b4w/Education/wiki>
-[alt-lectures]:     <https://www.youtube.com/playlist?list=PLrCZzMib1e9qkzxEuU_huxtSAxrW1t9NZ>
+[first-certificate]:  <https://stepik.org/cert/451779>
+[second-certificate]: <https://stepik.org/cert/611524>
+[stepik]:             <https://stepik.org>
+[first-course]:       <https://stepik.org/course/146>
+[second-course]:      <https://stepik.org/course/186>
+[synopsis]:           <https://github.com/b4w/Education/wiki>
+[alt-lectures]:       <https://www.youtube.com/playlist?list=PLrCZzMib1e9qkzxEuU_huxtSAxrW1t9NZ>
